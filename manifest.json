@@ -13,6 +13,6 @@
    },
 	"permissions" : [  "contextMenus" ],
 	"background" :{
-		"scripts": ["handler.js"]
+		"scripts": ["background.html"]
 	}
 }
